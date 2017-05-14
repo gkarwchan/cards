@@ -1,0 +1,12 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "chai/chai-3.2.0.d.ts": {
+      "commit": "97ec3b22f56a1cd73161193179691238bd32f36c"
+    }
+  }
+}
